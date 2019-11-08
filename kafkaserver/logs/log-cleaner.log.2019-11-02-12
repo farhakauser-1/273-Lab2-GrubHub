@@ -1,0 +1,8 @@
+[2019-11-02 12:20:16,114] INFO Starting the log cleaner (kafka.log.LogCleaner)
+[2019-11-02 12:20:16,211] INFO [kafka-log-cleaner-thread-0]: Starting (kafka.log.LogCleaner)
+[2019-11-02 12:21:54,746] INFO The cleaning for partition post_book-0 is aborted and paused (kafka.log.LogCleaner)
+[2019-11-02 12:21:54,748] INFO Compaction for partition post_book-0 is resumed (kafka.log.LogCleaner)
+[2019-11-02 12:21:54,748] INFO The cleaning for partition post_book-0 is aborted (kafka.log.LogCleaner)
+[2019-11-02 12:22:21,076] INFO The cleaning for partition response_topic-0 is aborted and paused (kafka.log.LogCleaner)
+[2019-11-02 12:22:21,077] INFO Compaction for partition response_topic-0 is resumed (kafka.log.LogCleaner)
+[2019-11-02 12:22:21,077] INFO The cleaning for partition response_topic-0 is aborted (kafka.log.LogCleaner)
